@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster+Two&family=Poppins&display=swap');
+
+body{
+    background-image: url(../img/fundo_mar.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+table{
+    margin-top: -20px;
+    line-height: 20px;
+}
+
+h1{
+   text-align: center;
+   font-size: 70px;
+   padding-top: 15px;
+   color: #296EEA;
+   font-family: 'Lobster Two', cursive;
+}
+
+td{
+    width: 25px;
+    font-family: 'Poppins', sans-serif;
+}
